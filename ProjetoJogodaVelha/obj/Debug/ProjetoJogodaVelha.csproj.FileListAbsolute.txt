@@ -1,0 +1,30 @@
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.exe.config
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.exe
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.pdb
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csprojResolveAssemblyReference.cache
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.frmJogodaVelha.resources
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.Properties.Resources.resources
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csproj.GenerateResource.Cache
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.exe
+C:\POOII-4ADS-2018\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.pdb
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.exe.config
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.exe
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.pdb
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csprojResolveAssemblyReference.cache
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.frmJogodaVelha.resources
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.Properties.Resources.resources
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csproj.GenerateResource.Cache
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csproj.CoreCompileInputs.cache
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.exe
+A:\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.pdb
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.exe.config
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.exe
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\bin\Debug\ProjetoJogodaVelha.pdb
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csprojAssemblyReference.cache
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.frmJogodaVelha.resources
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.Properties.Resources.resources
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csproj.GenerateResource.cache
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.exe
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.pdb
+C:\Users\alexb\Desktop\Projetos C#\ProjetoJogodaVelha\ProjetoJogodaVelha\ProjetoJogodaVelha\obj\Debug\ProjetoJogodaVelha.Nomes.resources
